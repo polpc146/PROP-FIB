@@ -1,0 +1,4 @@
+Barco Martinez, Pol        -> pol.barco@estudiantat.upc.edu
+Buitrago Cervilla, Sandra  -> sandra.buitrago@estudiantat.upc.edu
+Nuñez Cerezuela, Javier    -> javier.nunez.cerezuela@estudiantat.upc.edu
+Perez Castillo, Pol        -> pol.perez.castillo@estudiantat.upc.edu

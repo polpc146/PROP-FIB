@@ -1,0 +1,5 @@
+En aquesta carpeta es troba:
+
+- Diagrama i explicacions dels casos d'us 
+- Diagrama i explicacions del diagrama de classes
+- Descripció de les estructures de dades i algorismes utilitzats

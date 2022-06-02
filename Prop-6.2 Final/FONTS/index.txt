@@ -1,0 +1,8 @@
+DomainControllers: Controladores de dominio
+Presentation: Controladores de presentacion 
+Operations: Operaciones de celdas y rangos
+Structure: Clases de estructura y de celdas.
+Testing: Clases de prueba (Testing/src/test/java/StructureT)
+Persistencia: Controladores de persistencia
+Views: vistas y componentes
+

@@ -1,0 +1,4 @@
+En aquesta carpeta es troba:
+
+- Diagrama de classes
+- Descripció de les capes, estructures de dades i algorismes utilitzats

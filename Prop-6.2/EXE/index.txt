@@ -1,0 +1,2 @@
+Guia Joc de proves: Guia de como ejecutar el main 
+	y ejemplos de las operaciones del enunciado
