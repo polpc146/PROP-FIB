@@ -1,0 +1,5 @@
+En aquesta carpeta es troba:
+
+- Manual d'usuari
+- Relació de classes per membres de l'equip
+- Javadoc
